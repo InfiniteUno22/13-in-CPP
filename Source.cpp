@@ -94,7 +94,7 @@ void printdeck()
 }
 */
 
-void printdeck()
+void printVectDeck()
 {
     int k;
     for (k = 0; k < 52; k++) {
